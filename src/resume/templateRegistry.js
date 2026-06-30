@@ -28,8 +28,8 @@ import crimsonStyles from "./templates/CrimsonNoir/styles";
 import AmazonConfig from "./templates/Amazon/config";
 import AmazonStyles from "./templates/Amazon/styles";
 
-import compactProfessionalConfig from "./templates/CompactProfessionale/config";
-import compactProfessionalStyles from "./templates/CompactProfessionale/styles";
+import compactProfessionalConfig from "./templates/compactdesign/config";
+import compactProfessionalStyles from "./templates/compactdesign/styles";
 
 import blueprintConfig from "./templates/Blueprint/config";
 import blueprintStyles from "./templates/Blueprint/styles";
